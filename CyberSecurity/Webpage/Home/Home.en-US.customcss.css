@@ -1,0 +1,47 @@
+#irx6e{
+    display: none;
+}
+.edit {
+    background-color: rgb(98, 98, 221);
+    border-radius: 5px;
+    color: white;
+    border-color: rgb(98, 98, 221);
+    width: 57px;
+}
+
+.btn {
+    margin-left: 238px;
+    width: 98px;
+    height: 40px;
+    margin-top: 20px;
+}
+
+body {
+    background-color: #673AB7;
+    font-family: 'Calibri', sans-serif !important
+}
+
+.container {
+    background-color: #f8f9fa;
+    margin-top: 100px;
+}
+
+.table {
+    width: 100%;
+    max-width: 100%;
+    margin-bottom: 1rem;
+    background-color: transparent;
+}
+
+* {
+    outline: none;
+}
+
+.input-group {
+    width: 25%;
+}
+
+.inputs {
+    display: flex;
+    padding-bottom: 25px;
+}
