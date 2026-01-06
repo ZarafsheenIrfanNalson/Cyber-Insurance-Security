@@ -17,6 +17,8 @@ This project is a **Cyber Insurance and Cyber Security Threat Monitoring Dashboa
 ### Key Features
 
 * **Threat Monitoring Overview**
+   ![Dashboard Overview](cyberreport.png)
+
 
   * Displays total attack counts, pass/fail ratios, and overall security status.
   * Visual KPIs for quick assessment of cyber risk posture.
@@ -34,6 +36,7 @@ This project is a **Cyber Insurance and Cyber Security Threat Monitoring Dashboa
   * Helps security teams and decision-makers understand exposure and response effectiveness.
 
 * **Cyber Insurance Coverage Overview**
+   ![Dashboard Overview](cyber.png)
 
   * Detailed table view of insurance categories such as:
 
